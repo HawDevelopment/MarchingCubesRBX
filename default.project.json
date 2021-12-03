@@ -1,0 +1,11 @@
+{
+	"name": "MarchingCubesRBX",
+	"tree": {
+		"$className": "DataModel",
+
+		"ServerScriptService": {
+			"$className": "ServerScriptService",
+			"$path": "src"
+		}
+	}
+}
